@@ -1,2 +1,2 @@
 # Jason-s-Journey-to-the-Deep
-WebGL export / build for my Jason's Journey to the Deep project.
+Final project for VISIONS 23 seminar.
